@@ -1,0 +1,1 @@
+Este repositorio contiene un curso tutorial sobre el uso de la biblioteca MOLE, una herramienta de operadores miméticos diseñada para resolver ecuaciones en derivadas parciales (EDPs) en una, dos y tres dimensiones.
